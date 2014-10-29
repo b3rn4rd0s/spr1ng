@@ -7,6 +7,7 @@ spr1ng
 * New stuff.
 * Newer stuff.
 * Test for Asana.
+* Most newest, awesome-est stuff.
 
 [![Stories in Ready](https://badge.waffle.io/b3rnard0/spr1ng.svg?label=ready&title=Ready)](http://waffle.io/b3rnard0/spr1ng)
 
